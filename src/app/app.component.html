@@ -1,0 +1,39 @@
+<style>
+  body{
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  span{
+    color: rgb(0, 60, 255);
+  }
+
+  .btn{
+    width: 200px;
+    background-color: #0099ff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+  }
+</style>
+
+<div class="container">
+  <div><strong>Step 1:</strong>Add <span>{{script_tag}}</span> to index.html</div>
+  <br>
+  <div><strong>Step 2:</strong>Modify your <span>TypeScript component</span></div>
+  <br><br>
+  <div class="btn" (click)="startPayment()">Start Payment Example</div>
+  <br><br>
+  <div>Check console log output for event handlers</div>
+</div>
