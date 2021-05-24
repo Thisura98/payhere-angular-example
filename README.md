@@ -4,7 +4,7 @@
 <img src="https://github.com/Thisura98/payhere-angular-example/blob/main/res/screenshot.png?raw=true" width="650">
 <div>
 
-A small Angular 12 example integrating with payhere.lk's JavaScript SDK
+A small Angular example integrating with payhere.lk's JavaScript SDK
 
 ## How to use
 
