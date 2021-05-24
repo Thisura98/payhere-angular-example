@@ -1,8 +1,8 @@
 # PayHere Angular Example
 
-<center>
-<img src="https://github.com/Thisura98/payhere-angular-example/blob/main/res/screenshot.png?raw=true" width="400">
-<center>
+<div style="text-align: center">
+<img src="https://github.com/Thisura98/payhere-angular-example/blob/main/res/screenshot.png?raw=true" width="650">
+<div>
 
 A small Angular 12 example integrating with payhere.lk's JavaScript SDK
 
