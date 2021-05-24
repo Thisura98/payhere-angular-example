@@ -40,7 +40,7 @@ With Angular installed on your machine via npm, run one of the following command
 let payhere = (window as any).payhere;
 ```
 
-PayHere JS SDK attaches to the window property. But without the downcase to `any`, you will get compilation errors since TypeScript is a type safe language.
+PayHere JS SDK attaches to the window property. But without the downcast to `any`, you will get compilation errors since TypeScript is a type safe language.
 
 ### 3. Use the PayHere JS SDK normally.
 
