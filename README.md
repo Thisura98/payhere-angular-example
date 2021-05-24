@@ -1,8 +1,16 @@
 # PayHere Angular Example
 
+<center>
+<img src="https://github.com/Thisura98/payhere-angular-example/blob/main/res/screenshot.png?raw=true" width="400">
+<center>
+
 A small Angular 12 example integrating with payhere.lk's JavaScript SDK
 
 ## How to use
+
+Initialize the node project (because node_modules folder is not included in repo).
+
+`npm install`
 
 With Angular installed on your machine via npm, run one of the following commands.
 
